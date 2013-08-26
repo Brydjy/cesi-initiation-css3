@@ -15,8 +15,8 @@ Cette page devra se composer de :
 - Un titre h1  
 - Un texte d’introduction  
 - Plusieurs grandes images (taille originale de l’image attendu : 1920 x 1080 px)
-* Disposées à souhait  
-* L’affichage des images sur la page HTML se fera dans la résolution de votre choix
+  * Disposées à souhait  
+  * L’affichage des images sur la page HTML se fera dans la résolution de votre choix
 
 ## Exercice 1 : Les tailles de fenêtres ##
 Gérer différentes taille de fenêtre
