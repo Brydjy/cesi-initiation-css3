@@ -14,8 +14,7 @@ Créer une page HTML avec un fichier CSS lié à celle-ci.
 Cette page devra se composer de :  
 - Un titre h1  
 - Un texte d’introduction  
-- Plusieurs grandes images (taille originale de l’image attendu : 1920 x 1080 px)  
-	
+- Plusieurs grandes images (taille originale de l’image attendu : 1920 x 1080 px)
 * Disposées à souhait  
 * L’affichage des images sur la page HTML se fera dans la résolution de votre choix
 
