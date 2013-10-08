@@ -29,7 +29,7 @@ Gérer différentes taille de fenêtre
 
 **Travail à réaliser**  
 
-- Changer la taille des images lorsque la taille de l’écran change  
+- Changer la taille des images lorsque la taille de l’écran change (adapter à la page)
 - Chaque image doit systématiquement rester entièrement visible, peu importe la résolution en cours  
 - Changer la couleur du titre h1 pour chaque palier de résolution (définie ci-dessus)  
 - Appliquer les différentes tailles ci-dessus pour l’ensemble de l’exercice
