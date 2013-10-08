@@ -68,12 +68,21 @@ Lorsque l’écran est en position **« portrait »** (portrait) afficher un mes
 1. Ajouter un menu à votre page avec 6 liens
   * Le menu doit être en ligne et horizontale, donc les liens les uns à côté des autres. 
 
-2.	Si ce n’est pas possible, téléchargez et installez la webApp Chrome « Ripple ». Elle permet d’émuler un device mobile. 
-  * Avec Ripple, choisir Mobile Web (default)
-  * 
+2.	Quand on rétrécie la fenêtre et que l'affichage passe en dessous des 768px de large, le menu doit subir une transformation
+  * En dessous de 768px de large, le menu doit changer de place et venir se positionner en haut de l'écran
+  * Une fois la position du menu changée, il doit également n'afficher qu'un seul élément ou une seule information
+    * ex : Menu ou encore un bouton / icone représentant un menu
+  * Libre à vous de le placer à gauche, centré ou à droite
+  * Idéalement pour l'exercice, il devra faire toute la largeur de la page
+  * Au passage de la souris, le menu doit s'ouvrir et laisser apparaitre tous les items du menu
+  
+Pour mieux comprendre le résultat attendu, observer l'exemple suivant :  
 
+Menu taille normal
 ![Menu full size](http://i.imgur.com/JXAMksm.png)
+Menu taille optimisée
 ![Menu mobile](http://i.imgur.com/r1oSITv.png)
+Menu ouvert en version responsive (optimisé mobile)
 ![Menu mobile ouvert](http://i.imgur.com/yVkL8fJ.png)
 
 **Travail à réaliser :**  
