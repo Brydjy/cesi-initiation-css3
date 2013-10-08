@@ -69,32 +69,38 @@ Lorsque l’écran est en position **« portrait »** (portrait) afficher un mes
   * Le menu doit être en ligne et horizontale, donc les liens les uns à côté des autres. 
 
 2.	Quand on rétrécie la fenêtre et que l'affichage passe en dessous des 768px de large, le menu doit subir une transformation
-  * En dessous de 768px de large, le menu doit changer de place et venir se positionner en haut de l'écran
-  * Une fois la position du menu changée, il doit également n'afficher qu'un seul élément ou une seule information
-    * ex : Menu ou encore un bouton / icone représentant un menu
+  * En dessous de 768px de large, si ce n'est pas déjà le cas, le menu doit changer de place et venir se positionner en haut de l'écran
+  * Une fois la position du menu changée, il doit également n'afficher qu'un seul élément ou une seule information (pas tous les items du menu) afin d'optimiser l'espace
+  * Par exemple : L'intitulé "Menu" peut apparaître ou encore un bouton / icone représentant un menu
   * Libre à vous de le placer à gauche, centré ou à droite
   * Idéalement pour l'exercice, il devra faire toute la largeur de la page
   * Au passage de la souris, le menu doit s'ouvrir et laisser apparaitre tous les items du menu
+  * Les différents items du menu, ne seront plus affiché en ligne mais en bloc, chaque item prendra toute la largeur de la page
   
-Pour mieux comprendre le résultat attendu, observer l'exemple suivant :  
+Pour mieux comprendre le résultat attendu, observez l'exemple suivant :  
 
 Menu taille normal
 ![Menu full size](http://i.imgur.com/JXAMksm.png)
-Menu taille optimisée
+Menu taille optimisée (après redimensionnement)
 ![Menu mobile](http://i.imgur.com/r1oSITv.png)
 Menu ouvert en version responsive (optimisé mobile)
 ![Menu mobile ouvert](http://i.imgur.com/yVkL8fJ.png)
 
 **Travail à réaliser :**  
 
-- Adapter votre page aux terminaux mobiles  
-- Modifier le viewport et constater les changements  
-- Le site doit être ergonomique et en plein écran
+- Ajouter un menu horizontal à sa page
+- Adapter le menu à la résolution de la page en temps réel
+- Transformer le menu via les transition CSS3  
+- Optimiser l'affichage du menu en modifiant sa taille et l'affichage des items en vertical
 
 **Indice :**
 
-- viewport et balise meta  
-- scale  
+- CSS3
+- Transition
+- Display none
+- :hover
+- height
+- ! important
 
 
 
