@@ -63,4 +63,24 @@ Lorsque l’écran est en position **« portrait »** (portrait) afficher un mes
 - scale  
 
 
+## Exercice 4 : Créer un menu mobile ##
+
+1. Ajouter un menu à votre page avec 6 liens
+  * Le menu doit être en ligne et horizontale, donc les liens les uns à côté des autres. 
+
+2.	Si ce n’est pas possible, téléchargez et installez la webApp Chrome « Ripple ». Elle permet d’émuler un device mobile. 
+  * Avec Ripple, choisir Mobile Web (default)
+
+**Travail à réaliser :**  
+
+- Adapter votre page aux terminaux mobiles  
+- Modifier le viewport et constater les changements  
+- Le site doit être ergonomique et en plein écran
+
+**Indice :**
+
+- viewport et balise meta  
+- scale  
+
+
 
