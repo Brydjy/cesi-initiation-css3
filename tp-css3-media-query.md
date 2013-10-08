@@ -71,8 +71,10 @@ Lorsque l’écran est en position **« portrait »** (portrait) afficher un mes
 2.	Si ce n’est pas possible, téléchargez et installez la webApp Chrome « Ripple ». Elle permet d’émuler un device mobile. 
   * Avec Ripple, choisir Mobile Web (default)
   * 
-  
-![Alt attribute text Here](http://i.imgur.com/yVkL8fJ.png)
+
+![Menu full size](http://i.imgur.com/JXAMksm.png)
+![Menu mobile](http://i.imgur.com/r1oSITv.png)
+![Menu mobile ouvert](http://i.imgur.com/yVkL8fJ.png)
 
 **Travail à réaliser :**  
 
