@@ -55,7 +55,7 @@ Lorsque l’écran est en position **« portrait »** (portrait) afficher un mes
 
 - Adapter votre page aux terminaux mobiles  
 - Modifier le viewport et constater les changements  
-- E site doit être ergonomique et en plein écran
+- Le site doit être ergonomique et en plein écran
 
 **Indice :**
 
