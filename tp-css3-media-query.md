@@ -48,7 +48,7 @@ Lorsque l’écran est en position **« portrait »** (portrait) afficher un mes
 1. Si vous avez la possibilité de créer une connexion entre votre mobile et votre ordinateur, connectez-vous.
   * Le but de l’exercice est de pouvoir afficher sur son mobile la page actuelle.  
 
-2.	Si ce n’est pas possible, téléchargez et installez (la webApp Chrome « Ripple »)[https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc]. Elle permet d’émuler un device mobile. 
+2.	Si ce n’est pas possible, téléchargez et installez [la webApp Chrome « Ripple »](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc). Elle permet d’émuler un device mobile.
   * Avec Ripple, choisir Mobile Web (default)
 
 **Travail à réaliser :**  
